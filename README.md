@@ -34,7 +34,7 @@ Expected input:
 
 ## Dataset Processing
 
-- `process_datasets.py` — For combining inputs and performing band selection  
+- `process_datasets.py` — For combining datasets and performing band selection  
 - `match_datasets.ipynb` — For matching bands across different satellites
 
 ---
@@ -56,4 +56,4 @@ Expected input:
 
 ## License
 
-This repository uses and adapts several open datasets and open-source libraries. See the [LICENSE](LICENSE) file for full terms and conditions.
+This repository uses and adapts several open-source codes. See the [LICENSE](LICENSE) file for full terms and conditions.
