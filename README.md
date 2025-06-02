@@ -54,52 +54,6 @@ Expected input:
 
 ---
 
-## Available Datasets
-
-All datasets are located in the `data/` folder.  
-HYPSO has separate label files for the intermediate dataset and common label files for the remaining sets. Sentinel and Landsat have one set of labels each for training and testing.
-
-### HYPSO Final Dataset
-- 107 bands
-- 15 principal components (PCs)
-- 10 PCs
-- 7 PCs
-- 3 PCs (95% explained variance)
-
-### HYPSO Intermediate Dataset
-- 111 bands
-
-### HYPSO PCA-Based Band Selection
-- 66 bands
-- 10 PCs
-- 2 PCs (95% explained variance)
-
-### HYPSO Literature-Based Band Selection
-- 7 bands
-- 7 PCs
-- 2 PCs (95% explained variance)
-
-### Landsat-Matched HYPSO
-- 5 averaged bands
-
-### Landsat Original
-- 7 bands
-
-### HYPSO-Matched Landsat
-- 5 bands
-
-### Sentinel Original
-- 20 bands
-
----
-
 ## License
 
 This repository uses and adapts several open datasets and open-source libraries. See the [LICENSE](LICENSE) file for full terms and conditions.
-
-Key licenses:
-- Sentinel-2: [Sentinel Data Legal Notice](https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice)
-- Landsat: [USGS Landsat Data Policy](https://www.usgs.gov/faqs/are-there-any-restrictions-use-or-redistribution-landsat-data)
-- HYPSO: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-- hypso package code: [MIT License](https://opensource.org/license/mit/)
-- 

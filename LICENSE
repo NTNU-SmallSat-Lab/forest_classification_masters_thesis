@@ -5,18 +5,12 @@ The code in this repository is released under multiple licenses depending on the
 2. Code adapted from external libraries and repositories is governed by the respective licenses:
    - hypso (NTNU SmallSat Lab): MIT License
      https://opensource.org/license/mit/
-   - Model development code adapted from Sakib Mahmud (GitHub: https://github.com/Sakib1263/MobileNet-1D-2D-Tensorflow-Keras): Apache 2.0 https://www.apache.org/licenses/LICENSE-2.0
-   - PCA-based metrics calculation code adapted from Aria Alinejad (Github: https://github.com/ariaalinejad/hyperspectral): MIT License https://opensource.org/license/mit
-     
-
-3. Satellite data:
-   - Sentinel-2: Licensed under the Sentinel Data Legal Notice
-     https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice
-   - Landsat: Licensed under the USGS Landsat Data Policy
-     https://www.usgs.gov/faqs/are-there-any-restrictions-use-or-redistribution-landsat-data
-   - HYPSO-1 data: Creative Commons Attribution-ShareAlike 4.0 International
-     https://creativecommons.org/licenses/by-sa/4.0/deed.en
-   - SR16 Forest Resource Map: Open-source (https://www.nibio.no/tema/skog/kart-over-skogressurser/skogressurskart-sr16/_/attachment/inline/b1351797-d448-4a67-b099-961efaa6bf80:19bba6a2aed87d7063f4a0da2ccae616cd7fae8d/SR16_produktark.pdf)
+   - Model development code adapted from Sakib Mahmud 
+     (GitHub: https://github.com/Sakib1263/MobileNet-1D-2D-Tensorflow-Keras):
+     Apache 2.0 https://www.apache.org/licenses/LICENSE-2.0
+   - PCA-based metrics calculation code adapted from Aria Alinejad 
+     (Github: https://github.com/ariaalinejad/hyperspectral): 
+     MIT License https://opensource.org/license/mit
 
 By using or modifying this code, you agree to adhere to the individual licenses where applicable.
 
