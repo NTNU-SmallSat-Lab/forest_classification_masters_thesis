@@ -1,0 +1,46 @@
+The code in this repository is released under multiple licenses depending on the source and component:
+
+1. Original code developed by the author (Elise Mjøen) is licensed under the MIT License https://opensource.org/license/mit
+
+2. Code adapted from external libraries and repositories is governed by the respective licenses:
+   - hypso (NTNU SmallSat Lab): MIT License
+     https://opensource.org/license/mit/
+   - Model development code adapted from Sakib Mahmud (GitHub: https://github.com/Sakib1263/MobileNet-1D-2D-Tensorflow-Keras): Apache 2.0 https://www.apache.org/licenses/LICENSE-2.0
+   - PCA-based metrics calculation code adapted from Aria Alinejad (Github: https://github.com/ariaalinejad/hyperspectral): MIT License https://opensource.org/license/mit
+     
+
+3. Satellite data:
+   - Sentinel-2: Licensed under the Sentinel Data Legal Notice
+     https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice
+   - Landsat: Licensed under the USGS Landsat Data Policy
+     https://www.usgs.gov/faqs/are-there-any-restrictions-use-or-redistribution-landsat-data
+   - HYPSO-1 data: Creative Commons Attribution-ShareAlike 4.0 International
+     https://creativecommons.org/licenses/by-sa/4.0/deed.en
+   - SR16 Forest Resource Map: Open-source (https://www.nibio.no/tema/skog/kart-over-skogressurser/skogressurskart-sr16/_/attachment/inline/b1351797-d448-4a67-b099-961efaa6bf80:19bba6a2aed87d7063f4a0da2ccae616cd7fae8d/SR16_produktark.pdf)
+
+By using or modifying this code, you agree to adhere to the individual licenses where applicable.
+
+For citation or academic use, please refer to the associated fourthcoming Master’s thesis "Feature engineering and deep learning for forest classification based on hyperspectral HYPSO-1 data" by Elise Mjøen (2025).
+
+
+MIT License
+
+Copyright (c) 2025 Elise Mjøen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
