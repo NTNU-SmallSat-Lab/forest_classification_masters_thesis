@@ -1,7 +1,7 @@
-# Feature Engineering and Deep Learning for Forest Classification
+# Dimensionality Reduction and Deep Learning for Forest Classification
 
 This repository contains code and data associated with the forthcoming Master's thesis:  
-**"Feature Engineering and Deep Learning for Forest Classification Based on Hyperspectral HYPSO-1 Data"**  
+**"Dimensionality Reduction and Deep Learning for Forest Classification Based on Hyperspectral HYPSO-1 Data"**  
 *(Mjøen, 2025)*
 
 ---
