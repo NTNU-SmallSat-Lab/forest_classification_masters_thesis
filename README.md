@@ -1,8 +1,11 @@
 # Dimensionality Reduction and Deep Learning for Forest Classification
 
-This repository contains code and data associated with the forthcoming Master's thesis:  
+This repository contains code associated with the forthcoming Master's thesis:  
 **"Dimensionality Reduction and Deep Learning for Forest Classification Based on Hyperspectral HYPSO-1 Data"**  
 *(Mjøen, 2025)*
+It will be published to [NTNU Open](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/227492)
+
+As of June 2025, the datasets used in the Trondheim dataset can be found [here](https://studntnu-my.sharepoint.com/personal/samuelbo_ntnu_no/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsamuelbo%5Fntnu%5Fno%2FDocuments%2FS%26T%2DForest%2DData%2DAutumn%2D2024&T-Forest-Data-Autumn-2024=). It includes captures from an area outside of Trondheim from an aerial vehicle and the satellites Sentinel-2, Landsat-8 and Pleiades-1A. Additionally, it contains the forest type map SR16 from the same area. The constructed datasets described in the Master's thesis can be found [here](https://studntnu-my.sharepoint.com/:f:/g/personal/elismj_ntnu_no/EmT5lfMVyI5Dg74N_LUTVzUB6BUmS4VQM8y3B3CfxedtqA?e=klIN20). 
 
 ---
 
